@@ -1,0 +1,703 @@
+{
+  "asset_bytes": 42025374716,
+  "asset_limit_exclusive_bytes": 1900000000,
+  "assets": [
+    {
+      "bytes": 675081582,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 3635,
+      "group": "originals",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-originals-001.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "7fa496b5f1ac3ef45412dc21c08b0f2418b321a67c97fe16e983499abe209679",
+      "name": "preferred-interval-0.1.0-prelim-originals-001.tar.gz",
+      "payload_bytes": 1889338160,
+      "sha256": "2a756962e204b479a668c4e4ff85ec1d14ac39cf6f842238a90f3134839ea284",
+      "uncompressed_tar_bytes": 1892198400,
+      "uncompressed_tar_sha256": "74af916e5f9915b91159158ef67104d536e3fb478961916a0f33af4de2156275"
+    },
+    {
+      "bytes": 616060563,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 2898,
+      "group": "originals",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-originals-002.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "892dbc7cea8201f940d22826006970c143e4d35c3b0b47acea8fcd7d62c5ba03",
+      "name": "preferred-interval-0.1.0-prelim-originals-002.tar.gz",
+      "payload_bytes": 1892106544,
+      "sha256": "640f0030dfdc89c96f7f6bc495f8bdb7d14c81e520d23aa1bb3a21d281b009b3",
+      "uncompressed_tar_bytes": 1894369280,
+      "uncompressed_tar_sha256": "9bf5738c5bbb11b49bd8e1a09b9b948f9badd8ff8cacac5201fd0d6afc51ef4f"
+    },
+    {
+      "bytes": 579059928,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 2323,
+      "group": "originals",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-originals-003.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "5d6393f95368a42df479da7866e90a9d2e4960a29a1e854bb9662f6f2f6f0e38",
+      "name": "preferred-interval-0.1.0-prelim-originals-003.tar.gz",
+      "payload_bytes": 1896497055,
+      "sha256": "ac478403a37a29ef99bf5700485d1ff34616aaa3f98728525996220be6a53aad",
+      "uncompressed_tar_bytes": 1898270720,
+      "uncompressed_tar_sha256": "816ef83505292e387d687d286705c57ae462f10e4efb8f884bc82f39870115b7"
+    },
+    {
+      "bytes": 589901487,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 3738,
+      "group": "originals",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-originals-004.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "5b585a42651f4373963471664feadd5e49ea0a0856f30a3af5d8f70ef90ccbf6",
+      "name": "preferred-interval-0.1.0-prelim-originals-004.tar.gz",
+      "payload_bytes": 1894515571,
+      "sha256": "134f801ae6830ea611800efbcf9ead0db28e1ae4330eeaef45f068af3e482e99",
+      "uncompressed_tar_bytes": 1897328640,
+      "uncompressed_tar_sha256": "ccf0384e77ed4985398c204f4634061061670c4f729204d23229f085e571d082"
+    },
+    {
+      "bytes": 470598483,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 4781,
+      "group": "originals",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-originals-005.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "3b5be7373ddb3faf027cee9d75b1f54f5f462b2311cde00267cc4219e5b5fd68",
+      "name": "preferred-interval-0.1.0-prelim-originals-005.tar.gz",
+      "payload_bytes": 1895534889,
+      "sha256": "f80aa54bfc5f04e0b91af14033a4687a23b7d27e00c96d2ac8fdc6e848acd9aa",
+      "uncompressed_tar_bytes": 1899223040,
+      "uncompressed_tar_sha256": "40a4e7ec8bc01ce8817489bef86a3fa85823e8511cb4875f91f035de743db3c0"
+    },
+    {
+      "bytes": 61597567,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 754,
+      "group": "originals",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-originals-006.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "85807cbd07d83748da3aa8f39dd4d01b8e9345c98280e07a44cea803cccfb86c",
+      "name": "preferred-interval-0.1.0-prelim-originals-006.tar.gz",
+      "payload_bytes": 153466226,
+      "sha256": "24f9aa676191b2bc925252c7ab502ef805415807056f3f4ba33bef7e019064f6",
+      "uncompressed_tar_bytes": 154050560,
+      "uncompressed_tar_sha256": "3122cef9aa7b0cdb38dc07ec5a46e13c64880ce9e007905d57d50ab3ca4cd9ba"
+    },
+    {
+      "bytes": 1792159394,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 20372,
+      "group": "gen30",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-gen30-001.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "3865bdb32480dbb437698642f8df5906ce79413187ba279d02bb794ecd1ef156",
+      "name": "preferred-interval-0.1.0-prelim-gen30-001.tar.gz",
+      "payload_bytes": 1847707833,
+      "sha256": "b47d3242d3c0a1de4b728d82caeb310067c1f3e3b25498fcf1bf53fe1f5155fd",
+      "uncompressed_tar_bytes": 1863567360,
+      "uncompressed_tar_sha256": "95b787b3a4c368feeb8c1dab805ab182e6df5563a3078342d6554496314928b6"
+    },
+    {
+      "bytes": 1790732921,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 19778,
+      "group": "gen30",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-gen30-002.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "e5d698cb3a29865a5a32ba6be4f2cac819f2bc712d27bbc9d4aae756ebda949c",
+      "name": "preferred-interval-0.1.0-prelim-gen30-002.tar.gz",
+      "payload_bytes": 1845445340,
+      "sha256": "ce6f20cdada77cf93a189fadf2854ad60a13f8d5a4eab1a8fb877c7a8a4997d9",
+      "uncompressed_tar_bytes": 1860792320,
+      "uncompressed_tar_sha256": "3703429fae2c37be0da1a5d34d91a4101814d58dfd4db98360fb55948e0fdcdc"
+    },
+    {
+      "bytes": 1791001823,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 19603,
+      "group": "gen30",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-gen30-003.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "c9ec46b92cefeb84ead6f8696f7ae50ae60db1a103b0d3b8f4863abde1318fb2",
+      "name": "preferred-interval-0.1.0-prelim-gen30-003.tar.gz",
+      "payload_bytes": 1846096221,
+      "sha256": "824b6eacc41865b92724bd3466887c9379ca4bdeb9afb5baa87594f91ce9febe",
+      "uncompressed_tar_bytes": 1861304320,
+      "uncompressed_tar_sha256": "28d2d68032f63245437adaff96bf15013cfc79a641745a351fb50c7b2278377b"
+    },
+    {
+      "bytes": 1792801209,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 19526,
+      "group": "gen30",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-gen30-004.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "961994bdbc9dfe50f9915bf08f6ae5832767df9b087f00ef088d25e8ab8f8c63",
+      "name": "preferred-interval-0.1.0-prelim-gen30-004.tar.gz",
+      "payload_bytes": 1848079533,
+      "sha256": "7fed0016e003213ed58cddf3c2d56f5769dbf6a04967f4e78f9cb28d01e68ad3",
+      "uncompressed_tar_bytes": 1863219200,
+      "uncompressed_tar_sha256": "9a85b42a595f877acf786f0542fa4c0ef4164acf36a5e0499fd5c5cf46085835"
+    },
+    {
+      "bytes": 796904811,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 8636,
+      "group": "gen30",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-gen30-005.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "068294ba6f161ef2206d762acc99cac5c3917dd26bef8d8da053931a9b8cf24b",
+      "name": "preferred-interval-0.1.0-prelim-gen30-005.tar.gz",
+      "payload_bytes": 821183144,
+      "sha256": "7519ee39c962ca58c45e4a5b06348782b237c19a54deb8a3c1ea09686082d915",
+      "uncompressed_tar_bytes": 827883520,
+      "uncompressed_tar_sha256": "d358f9f3367ddb72c43dd8d23cfdb89a4ae9a6c3a400e2afcc8d7e7aca3ebb76"
+    },
+    {
+      "bytes": 573682745,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 26500,
+      "group": "pB10",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-pB10-001.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "c752d371abdd1a2fba8f7dca147574c0dce5634f03b4622780a0a598684193a0",
+      "name": "preferred-interval-0.1.0-prelim-pB10-001.tar.gz",
+      "payload_bytes": 637674664,
+      "sha256": "ab49e98b0224d03ce83162abba2921ae7b6f89813d254baae418be55e968e964",
+      "uncompressed_tar_bytes": 656404480,
+      "uncompressed_tar_sha256": "d0cca86d4dbe7002c6c6a7a2b57bd1685a80fb59a166d51e2ecbe17bf4f7980c"
+    },
+    {
+      "bytes": 1578709010,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 76661,
+      "group": "pB11",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-pB11-001.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "b9153ebbeaf16a8be6b8a2a605576a65a2357b10c087786afb980e0bfc9790bb",
+      "name": "preferred-interval-0.1.0-prelim-pB11-001.tar.gz",
+      "payload_bytes": 1820725598,
+      "sha256": "3898ea6a0e089641dcd4488229c2127717e75e46fdefceab17a2c037a0d15363",
+      "uncompressed_tar_bytes": 1874872320,
+      "uncompressed_tar_sha256": "398b5f12f887a9ea8daf9b25ebdb0a8d831640bab343f3760fd4cee27c4f65ac"
+    },
+    {
+      "bytes": 75509034,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 4078,
+      "group": "pB11",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-pB11-002.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "66edba7feb76d458458d1d4533810e0f1f8e5f6a285cdebbbe0fc9a0cbafb6e5",
+      "name": "preferred-interval-0.1.0-prelim-pB11-002.tar.gz",
+      "payload_bytes": 82848157,
+      "sha256": "d8363e6ce2714bed7742c41845fdc88dc237d05108ee1aed1682950c74003739",
+      "uncompressed_tar_bytes": 85739520,
+      "uncompressed_tar_sha256": "d9921feeac398c60f20bebe49503e12d4fc1433b48cefd922962af2b1cf44932"
+    },
+    {
+      "bytes": 1575504769,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 56366,
+      "group": "pB12",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-pB12-001.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "0150bf1b8097f55f0ff9c74fa74d72f64bc3c05fedf26495be8a46df8f5d93fe",
+      "name": "preferred-interval-0.1.0-prelim-pB12-001.tar.gz",
+      "payload_bytes": 1833314841,
+      "sha256": "be4feebef88d54098c51399a1763d8ddba189626fd713784ac4454dbed7bf2cd",
+      "uncompressed_tar_bytes": 1874053120,
+      "uncompressed_tar_sha256": "bd753d2ea0fcf413616276fd91b064c4584019aad788ac4fff19685591987208"
+    },
+    {
+      "bytes": 701942554,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 53855,
+      "group": "pB12",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-pB12-002.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "5367b4629eecad9827ce691ec8e37635bd0871aa987ec4223bae0a11f3b1f222",
+      "name": "preferred-interval-0.1.0-prelim-pB12-002.tar.gz",
+      "payload_bytes": 797830215,
+      "sha256": "642524939192ee61a89552ca93be234cbd1fea941e592b8b68a08ff127a3461a",
+      "uncompressed_tar_bytes": 835020800,
+      "uncompressed_tar_sha256": "be30ed6177222ae5c29937d4a8a3698028b3f0715101fb41eb0170dd3a709717"
+    },
+    {
+      "bytes": 1578574025,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 87267,
+      "group": "pB13",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-pB13-001.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "c42cf1646295a9c407ea8ffdb170d46edcd743c56ffa8ea0fd3f9f36af182b8c",
+      "name": "preferred-interval-0.1.0-prelim-pB13-001.tar.gz",
+      "payload_bytes": 1834061123,
+      "sha256": "566e152fdd35e373ae7fa62eef360e0732307576dc43e8faa593216147efd0c7",
+      "uncompressed_tar_bytes": 1895311360,
+      "uncompressed_tar_sha256": "424f41ae2ff3d2e4d4cafe691fa3fd6e19c7207eabbf3f59beb4bdf86caad9ee"
+    },
+    {
+      "bytes": 839563100,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 36804,
+      "group": "pB13",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-pB13-002.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "9c8b084b8d4e54fc4861e0c4e06c67c8758b880b691211f49ed0cc0f333a0860",
+      "name": "preferred-interval-0.1.0-prelim-pB13-002.tar.gz",
+      "payload_bytes": 984642906,
+      "sha256": "9a5b245adf8726351aa5d553137eb3ab83b830d5cfcd183c0c22e545c6d4b3dd",
+      "uncompressed_tar_bytes": 1010421760,
+      "uncompressed_tar_sha256": "8ca89fd8026c3aaad1e644b89767c9eeaa130f9028faa658af3d15c22547764c"
+    },
+    {
+      "bytes": 1678458853,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 54575,
+      "group": "s14",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-s14-001.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "5ee2ba230ff4a0987d159c551004548e71b0f8103676671b567568c2dc8d3343",
+      "name": "preferred-interval-0.1.0-prelim-s14-001.tar.gz",
+      "payload_bytes": 1855883854,
+      "sha256": "ca62dabcae230d56efbe57764319d663ec5a62681ea4bc093deb8be0c3fb2383",
+      "uncompressed_tar_bytes": 1899960320,
+      "uncompressed_tar_sha256": "8b50d5744587cfb8f034c0d4d59a7aa1406f05057c4c78e5a67e0cd6a00ed922"
+    },
+    {
+      "bytes": 1585986686,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 60028,
+      "group": "s14",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-s14-002.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "12b2f28f684bda430612570aa04c0bb01057eff8deb85632a417ffc5c3f2a276",
+      "name": "preferred-interval-0.1.0-prelim-s14-002.tar.gz",
+      "payload_bytes": 1852533109,
+      "sha256": "08a4388dbc7fd82912674f6dcdbe6c7f76ba2fabe7e480c363f77b54f0d48ccd",
+      "uncompressed_tar_bytes": 1899919360,
+      "uncompressed_tar_sha256": "7bdde6257fd9c235129898c6a2705f0328135c003425ed2eb9829d539b5dcef5"
+    },
+    {
+      "bytes": 1366976372,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 50640,
+      "group": "s14",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-s14-003.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "c90bc672f671c617708521eb7ac480baa2b08e6674ceab11eb51575d6f0ce951",
+      "name": "preferred-interval-0.1.0-prelim-s14-003.tar.gz",
+      "payload_bytes": 1632747201,
+      "sha256": "ed4508f16c66f84188cf0b0a515a3994c88298f61681abc731c7a4b294e6fcb4",
+      "uncompressed_tar_bytes": 1670983680,
+      "uncompressed_tar_sha256": "bde7045bff4565975f3b6d13215e18341eff7768873317c00260c21a2e41f9f4"
+    },
+    {
+      "bytes": 1518345235,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 116101,
+      "group": "s15",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-s15-001.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "f9cc036dacd73260104ab0034dddfed90410686b04671e7fa85bb20d8c3bdf4e",
+      "name": "preferred-interval-0.1.0-prelim-s15-001.tar.gz",
+      "payload_bytes": 1815640017,
+      "sha256": "737f3e2155e0fbf5565fdc7d9a278171d42ac4148dd485b517076d0e63ed3e60",
+      "uncompressed_tar_bytes": 1899960320,
+      "uncompressed_tar_sha256": "dfc17b523eb3d951d88f03879c0bf522aafc0a5bd3b0c6f71b8ff82eb88b88e9"
+    },
+    {
+      "bytes": 1415871504,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 48837,
+      "group": "s15",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-s15-002.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "d514cc5844fc26aa99c1bb38bb7a23c23b7122457e6b891883dd17fc5604c71c",
+      "name": "preferred-interval-0.1.0-prelim-s15-002.tar.gz",
+      "payload_bytes": 1676301617,
+      "sha256": "46a42e777f90f5e738863fa46be4b1dfe69647bbacd388956f47f1b5ef78274d",
+      "uncompressed_tar_bytes": 1713346560,
+      "uncompressed_tar_sha256": "c3e04b41c88c887b5a632c60654b7ca7be4e6e226bba81c25e697945df0ada1b"
+    },
+    {
+      "bytes": 1550633914,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 95862,
+      "group": "s16",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-s16-001.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "71add5e8a283a4d60f5008253188ed401f65cc70809308f898eb7df88af12a33",
+      "name": "preferred-interval-0.1.0-prelim-s16-001.tar.gz",
+      "payload_bytes": 1826848621,
+      "sha256": "a4942426c92661129620fb3050bd23ad1a0b1ae481015fc6990540fb3f8ba635",
+      "uncompressed_tar_bytes": 1897441280,
+      "uncompressed_tar_sha256": "45b92952a47460604ff98d89ef42786c85ecd9ab4db4e9a23d75279f128b6b22"
+    },
+    {
+      "bytes": 1548121406,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 93851,
+      "group": "s16",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-s16-002.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "d97b3764132f878b9bcd7b6662a9e9d4328e499e0fd1339bc6e22a4f8538826a",
+      "name": "preferred-interval-0.1.0-prelim-s16-002.tar.gz",
+      "payload_bytes": 1824262234,
+      "sha256": "aab41aa9efb8071f92319a2c594e2fbe1684d39af62e3436dfb77da1dca3e8dc",
+      "uncompressed_tar_bytes": 1893160960,
+      "uncompressed_tar_sha256": "d7b2256df5759f4a05e90d23c144cf5885ccf4e304f71c1c810bc988095af922"
+    },
+    {
+      "bytes": 1581968170,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 57040,
+      "group": "s16",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-s16-003.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "f59543a0e5f6c88a55999888705ccc3f8c257fcca402ea79422efa4dd91073a4",
+      "name": "preferred-interval-0.1.0-prelim-s16-003.tar.gz",
+      "payload_bytes": 1855810876,
+      "sha256": "f4968b25a069095b5f218695f57db57bdef95868979358a255ccb01aa78be67e",
+      "uncompressed_tar_bytes": 1899069440,
+      "uncompressed_tar_sha256": "108727860c413fa82c7e8b2066bd8eb404db12e042a7c477b778b2d6d7ab7576"
+    },
+    {
+      "bytes": 65168,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 1,
+      "group": "s16",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-s16-004.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "075672e17272d70d327f1307340baca915e1f15b076d4574f17e113e29ea64fd",
+      "name": "preferred-interval-0.1.0-prelim-s16-004.tar.gz",
+      "payload_bytes": 1796872,
+      "sha256": "af77022df79ee9e6ee0e856ee611e486f72a877d340315dd108c5180e5360c42",
+      "uncompressed_tar_bytes": 1802240,
+      "uncompressed_tar_sha256": "84ac76e6adcc62fa9846361f235d56b03410fe9fd36bd6547f68fc3839da1d4b"
+    },
+    {
+      "bytes": 1538149892,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 113091,
+      "group": "small",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-small-001.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "af5933afe374e10562a1262355d4774f088440723969bceb1766688e3ab33008",
+      "name": "preferred-interval-0.1.0-prelim-small-001.tar.gz",
+      "payload_bytes": 1817280866,
+      "sha256": "1c3e4960458686b4f81b1b0cee3ee769b09b5d37c235f101bf21b865c39352d0",
+      "uncompressed_tar_bytes": 1899980800,
+      "uncompressed_tar_sha256": "c6de39d00daee487cf370a7b281061843fe9e2badf6f0a29023b8ae5e000ef76"
+    },
+    {
+      "bytes": 1548453190,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 98423,
+      "group": "small",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-small-002.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "550825bd91aae170c170302114e5054c6f5375766b2947a4a5aa3e24872a9db5",
+      "name": "preferred-interval-0.1.0-prelim-small-002.tar.gz",
+      "payload_bytes": 1827586682,
+      "sha256": "10f065721dfa1ae8a1f65733833eb3c17a2105e3964f0f34b3cafe2636f3bbc3",
+      "uncompressed_tar_bytes": 1899970560,
+      "uncompressed_tar_sha256": "7c5e1fc4b0ea0933dea1bf51eeae7cec2bfbfe6f40c6f431264922a675036a9e"
+    },
+    {
+      "bytes": 1549084680,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 97859,
+      "group": "small",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-small-003.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "f4e7a7c31f1cb66fa4c6b79f37cff0b14e7dc6367fa57c7e90412aca7780f2b5",
+      "name": "preferred-interval-0.1.0-prelim-small-003.tar.gz",
+      "payload_bytes": 1827275565,
+      "sha256": "7eb3bd551801056659c18bb39e6c6a521ecce89751edfac6b4cb227194fd2fc4",
+      "uncompressed_tar_bytes": 1898895360,
+      "uncompressed_tar_sha256": "96bc36c5f32c1ec9bf87b5e350636e85c726d33547545d7526e0c134e9e31f44"
+    },
+    {
+      "bytes": 1557131549,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 93565,
+      "group": "small",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-small-004.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "354865fe9870d9d77e49bbfc90b1b1af404707425f674e73fdc443d6da3439c8",
+      "name": "preferred-interval-0.1.0-prelim-small-004.tar.gz",
+      "payload_bytes": 1830322061,
+      "sha256": "cf79e00eecd3b35b58f447e0e80a24287b5d77e3c320eddb621ff25ea4c3ad7a",
+      "uncompressed_tar_bytes": 1898977280,
+      "uncompressed_tar_sha256": "3b76971b747753325808266ea5eb2250e61150d7361858e1b5c192e72515a7d3"
+    },
+    {
+      "bytes": 1562710285,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 86460,
+      "group": "small",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-small-005.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "fee52d96b14f766dfb1687b3594722fcd8f4c0e2f39628ba540e2fb3edd3000c",
+      "name": "preferred-interval-0.1.0-prelim-small-005.tar.gz",
+      "payload_bytes": 1836579740,
+      "sha256": "7213551dd2d850f7935dd1fdb0ec8c55ffcd3d20693416456dcaf02d70673c4b",
+      "uncompressed_tar_bytes": 1899980800,
+      "uncompressed_tar_sha256": "138a92b9b1f2a26cab2b24d1a1d6538babbb3ef595f026cfa9a4f234e417c3d5"
+    },
+    {
+      "bytes": 1553237654,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 89469,
+      "group": "small",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-small-006.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "4c274ec84f7b026f42bab76d0db7d31a3ee8c39482f35f42a26e1d3d9483f31d",
+      "name": "preferred-interval-0.1.0-prelim-small-006.tar.gz",
+      "payload_bytes": 1829559401,
+      "sha256": "f8224248c112d3063fc973a5b98d8c92c8eddb984487924d4b823b5d9acb365d",
+      "uncompressed_tar_bytes": 1895557120,
+      "uncompressed_tar_sha256": "5309ed5fe71be1e9dcfaae7dbc4b47b0c58a5350cdd55837593af274766d2900"
+    },
+    {
+      "bytes": 1552281536,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 92498,
+      "group": "small",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-small-007.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "9ba0715e2f962d76177c5bedd232f128f68f34055e7ca8aa8ae131668691371c",
+      "name": "preferred-interval-0.1.0-prelim-small-007.tar.gz",
+      "payload_bytes": 1827505293,
+      "sha256": "a9576c8694010dab41e3b8ecbe292e8ae20270dc1d65c2871ffd61fd7d11231f",
+      "uncompressed_tar_bytes": 1895526400,
+      "uncompressed_tar_sha256": "0d6f812e395de99f94e86f4645d8d18262c5801c2c034fa756d11688fb77e614"
+    },
+    {
+      "bytes": 1032334952,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 33463,
+      "group": "small",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-small-008.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "b3122e9f998a9f990e8dc229050df065170608a89020f26970d2c09198aa1670",
+      "name": "preferred-interval-0.1.0-prelim-small-008.tar.gz",
+      "payload_bytes": 1211114237,
+      "sha256": "d203e52174090e84d47456049b24d8a7e9816be692b7219abfd6a154bcb6fd16",
+      "uncompressed_tar_bytes": 1236387840,
+      "uncompressed_tar_sha256": "a69a29959553cb73e14cc2afd1a91c802b0a5a448a9b22eec6a32b08845675cf"
+    },
+    {
+      "bytes": 6178665,
+      "compression": {
+        "filename": "",
+        "format": "gzip",
+        "level": 1,
+        "mtime": 0
+      },
+      "files": 1228,
+      "group": "inputs",
+      "manifest": "manifests/preferred-interval-0.1.0-prelim-inputs-001.tar.gz.files.jsonl.gz",
+      "manifest_sha256": "41138dcee4ffe8c851bc4f31745139ce7c6336c60b08b8b3de268380ef09656d",
+      "name": "preferred-interval-0.1.0-prelim-inputs-001.tar.gz",
+      "payload_bytes": 23407906,
+      "sha256": "82850ad136d0b424b26cdad77c4d60471934170b866bcb0c407d1d0098aa09d3",
+      "uncompressed_tar_bytes": 24350720,
+      "uncompressed_tar_sha256": "88ea3f460ac461848a8d3cf836ab087d7a67c7a10103ce5280227a120f3dbc64"
+    }
+  ],
+  "compression": "normalized PAX regular files; deterministic gzip level 1, zero mtime, empty filename",
+  "compression_runtime": {
+    "python": "3.11.15",
+    "zlib": "1.3.2"
+  },
+  "corpus": {
+    "branch_supplements": 313,
+    "cusp_cases": 1470,
+    "cusp_family_counts": {
+      "gen30": 80,
+      "pB10": 18,
+      "pB11": 93,
+      "pB12": 139,
+      "pB13": 153,
+      "s14": 172,
+      "s15": 136,
+      "s16": 225,
+      "small": 454
+    },
+    "exact_saved_cover_obligations": 895,
+    "outer_obligations": 156,
+    "primary_small_certificates": 434,
+    "units_are_distinct": true
+  },
+  "files": 1730566,
+  "full_Lean_formalization": "in progress",
+  "normalization": {
+    "gid": 0,
+    "gname": "",
+    "gzip_filename": "",
+    "gzip_level": 1,
+    "gzip_mtime": 0,
+    "mode_octal": "0644",
+    "mtime": 0,
+    "tar_format": "PAX",
+    "uid": 0,
+    "uname": ""
+  },
+  "payload_bytes": 54193524172,
+  "schema": "preferred-interval-release-v1",
+  "verification_entry_point": "verify.py",
+  "verification_runtime": {
+    "assertions_enabled": true,
+    "available_RAM_minimum_GiB": 3.5,
+    "free_disk_reserve_GiB": 8,
+    "python": "3.11.15",
+    "threads": 1
+  },
+  "version": "0.1.0-prelim"
+}
